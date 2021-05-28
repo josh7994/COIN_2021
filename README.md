@@ -21,6 +21,7 @@
 
 * :ledger: WEEK6 - Seaborn
 
-
+* :ledger: WEEK7 - Linear Regression
+* 
 ![COIN활동](https://user-images.githubusercontent.com/72305202/116538355-5e3d7400-a922-11eb-87e5-d56d2bfedeb1.jpg)
 
